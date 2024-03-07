@@ -39,13 +39,13 @@ Next, follow the instructions listed below for your OS. Keep in mind this is ass
 ### Version 0.1:
     - Created the script! Basic menu, supports all main categories and commonly used operating systems
 
-##Thanks to these people to support/inspiration:
+## Thanks to these people to support/inspiration:
     - wermi (for help/teaching me Python related stuff!)
     - tayyip (for continued moral support)
     - !whichstar command from SM64 discord
     - Zombie (random star webapp)
     - Usamune (random stage per category function)
-    - Artemis (for implementing 0.2)
+    - Artemis (for implementing v0.2)
 
 ## Additional Libraries Used
 - https://github.com/tartley/colorama
